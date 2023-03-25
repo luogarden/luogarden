@@ -4,7 +4,7 @@
   <figcaption>
   <div class="gallery-group-name">壁紙</div>
   <p>收藏的一些壁紙</p>
-  <a href='/project/Gallery/wallpaper'></a>
+  <a href='/Gallery/wallpaper'></a>
   </figcaption>
   </figure>
    
@@ -13,7 +13,7 @@
   <figcaption>
   <div class="gallery-group-name">漫威</div>
   <p>關於漫威的圖片</p>
-  <a href='/project/Gallery/marvel'></a>
+  <a href='/Gallery/marvel'></a>
   </figcaption>
   </figure>
    
@@ -22,7 +22,7 @@
   <figcaption>
   <div class="gallery-group-name">OH MY GIRL</div>
   <p>關於OH MY GIRL的圖片</p>
-  <a href='/project/Gallery/ohmygirl'></a>
+  <a href='/Gallery/ohmygirl'></a>
   </figcaption>
   </figure>
    </div>
